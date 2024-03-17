@@ -5,7 +5,7 @@ package lab2;
 
      public static void main(String[] args) {
 
-                // Create a Point
+                // Creating new points
                 IPoint point1 = new Point();
                 IPoint point2 = new Point();
                 point1.setX(10);
